@@ -40,7 +40,7 @@
 <br/>
 
 ## 🎞 Demo
-[리드미 시연영상보기](https://www.naver.com)
+[리드미 시연영상보기](https://www.youtube.com/watch?v=X-rooURijag)
 
 <br/>
 
