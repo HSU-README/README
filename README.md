@@ -111,7 +111,7 @@
 **Frontend(Web)**
 - **Language** : JavaScript, TypeScript
 - **Library & Framework** : React, Styled-Components, Axios, Recoil, React-Quill, React-Rnd, React-To-Pdf
-- **Deploy**: AWS(S3)
+- **Deploy**: Netlify
 <br />
 
 **Backend**
@@ -119,7 +119,7 @@
 - **Library & Framework** : Spring Boot
 - **Database** : MySQLDB
 - **ORM** : JPA
-- **Deploy**: AWS(EC2, RDS), Firebase(Storage)
+- **Deploy**: Heroku, Firebase(Storage)
 
 <br/>
 
